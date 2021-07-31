@@ -1,0 +1,20 @@
+Variables
+Una variable es un contenedor donde se gurdan datos/valores.
+
+Strings:
+Son 0 o más caracteres escritos dentro de comillas usados para 
+guardar o manipular texto.
+
+Funciones:
+Una función es un bloque de código diseñado para realizar una 
+tarea particular.
+Los argumentos son los valores recibidos por la función cuando es llamada.
+Return devuelve el valor de una funcion.
+
+Declaraciones:
+Se ejecuta un bloque de codigo si una condicion especifica es verdadera.
+Si la condicion es falsa, otro bloque de codigo se puede ejecutar.
+
+Valores booleanos:
+Es un tipo de dato que solo toma los valores true or false (verdadero o falso.)
+
