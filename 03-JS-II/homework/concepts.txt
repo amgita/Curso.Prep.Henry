@@ -1,0 +1,8 @@
+For:
+El bucle for se utiliza para repetir una o más instrucciones un determinado número de veces.
+Consiste en tres expresiones opcionales encerradas en paréntesis y separadas en puntos y comas.
+luego se cierra con llaves.
+
+`&&`, `||`, `!` (operadores lógicos):
+Los operadores lógicos && (AND), || (OR), y ! (NOT) se usan para determinar la lógica entre variables
+o valores.
