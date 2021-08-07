@@ -1,0 +1,5 @@
+Arrays:
+Los arrays son usados para guardar múltiples valores en una sola variable.
+Por ejemplo, una lista de frutas.
+Ejemplo:
+var frutas = ['Naranja', 'Banana', 'Frutilla', 'Manzana']
