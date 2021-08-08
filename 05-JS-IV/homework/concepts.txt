@@ -1,0 +1,11 @@
+Objetos:
+Los objetos son coleccione de propiedades.
+Propiedades: Es la asociación entre un nombre o clave y un valor.
+
+Métodos: Los métodos son funciones guardadas en n objeto.
+Bucle for in: 
+El bucle For...in recorre las propiedades de un objeto. 
+Notación de puntos vs notación de corchetes:
+En la notación de puntos, la propiedad debe ser un identificador válido.
+En la notaciónde corchetes el nombre de la propiedad es un string símbolo.
+
