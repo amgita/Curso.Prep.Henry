@@ -1,0 +1,9 @@
+prototype:
+Todos los objetos en javascript heredan propiedades y métodos de un prototype.
+prototype te deja agregar nuevas propiedades al constructor.
+También te deja agregar métodos.
+
+_Constructors_ (de Clases):
+Es un método especial que se usa para inicializar propiedades en objetos.
+
+
